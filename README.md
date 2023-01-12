@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skh990427&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent/">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
