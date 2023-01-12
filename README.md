@@ -1,4 +1,4 @@
-### Hi there 👋
+### H
 
 <!--
 **skh990427/skh990427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+
 ![skh990427's github stats](https://github-readme-stats.vercel.app/api?username=skh990427&show_icons=true)
+<div align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skh990427&layout=compact&langs_count=8&theme=radical"/>
 </div>
