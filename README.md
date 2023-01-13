@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text='KwangHo's Github!'&fontSize=90" />
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skh990427&layout=compact&langs_count=8&theme=radical"/>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skh990427&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=skh990427&show_icons=true">
