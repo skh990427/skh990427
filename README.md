@@ -44,5 +44,5 @@
 
 <div align="center">
   
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skh990427)(https://solved.ac/profile/skh990427)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skh990427)](https://solved.ac/profile/skh990427)
 </div>
